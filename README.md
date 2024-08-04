@@ -1,4 +1,4 @@
-# iettapp
+# IETT APP
 
 A new Flutter project.
 
